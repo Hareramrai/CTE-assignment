@@ -3,3 +3,5 @@
 source "https://rubygems.org"
 
 gem "rspec-core"
+gem "rspec"
+gem 'factory_girl'
